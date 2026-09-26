@@ -25,8 +25,10 @@ The rule is a review signal, not a universal definition of a correct Jira workfl
 - [Privacy notice](privacy.md)
 - [Data handling](data-handling.md)
 - [Support, FAQ, and installation help](support.md)
+- [Contact](contact.md)
 - [Security](security.md)
 - [Product boundaries](disclaimer.md)
+- [End-user terms status](terms.md)
 
 ## Contact and support
 
